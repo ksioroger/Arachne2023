@@ -1,9 +1,0 @@
-*.tmp
-.gdb_history
-tags
-include/
-obj/
-lib/
-*.rej
-*.patch
-*.swp
